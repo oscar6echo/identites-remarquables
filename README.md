@@ -81,7 +81,7 @@ $(a - b)^2 = a^2 - 2ab + b^2$
 On part d'un grand carré de côté $a$. Son aire est **$a^2$**.
 On veut trouver l'aire du carré de côté $(a - b)$, qui est **$(a - b)^2$** (la zone jaune sur l'image).
 
-<img src="./img/identite-2.jpeg" alt="alt" width="250">
+![Seconde identité](./img/identite-1.jpeg){width=250px}
 
 On peut le voir par soustraction :
 
@@ -124,7 +124,7 @@ $(a + b)(a - b) = a^2 - b^2$
 
 ### Démonstration (Géométrie)
 
-<img src="./img/identite-3.jpeg" alt="alt" width="250">
+![Troisème identité](./img/identite-1.jpeg){width=250px}
 
 1. On part d'un grand carré de côté $a$ (aire $a^2$).
 2. On lui enlève (on "coupe") un petit carré de côté $b$ (aire $b^2$) dans un coin.
